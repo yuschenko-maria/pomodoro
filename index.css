@@ -1,0 +1,35 @@
+.wrapper{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+}
+.button{
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(184, 113, 184);
+    border: none;
+    border-radius: 15%;
+}
+.buttons-wrapper{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+input{
+    height: 20px;
+    width: 75px;
+}
+.break-input,
+.work-input{
+    text-align: center;
+}
+.text{
+    text-align: center;
+    color: rgb(184, 113, 184);
+}
+.timer{
+    text-align: center;
+    color: rgb(126, 70, 126);
+    font-size: 96px;
+}
